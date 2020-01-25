@@ -1,0 +1,3 @@
+Make the list of the expense .
+nd try to sum of all the price.
+et the total expense for the education.
